@@ -1,1 +1,4 @@
 initialize a repository starts the structure to track files
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is like a buffer that records the state of changes before a commit to the repository. It allows to change decision before committing a change.
+
